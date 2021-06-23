@@ -2,7 +2,7 @@
 
 ### [Example Website](https://chat-app-javascript.netlify.app/)
 
-![Teams Build with Chat Engine](/public/chatpage.png)
+![Teams Build with Chat Engine](https://github.com/Esubalew-github/Chat-App/blob/main/public/chatpage.png)
 
 ## Introduction
 
